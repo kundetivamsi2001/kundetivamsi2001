@@ -19,18 +19,15 @@
 
 ## 🧬 About Me
 
-```python
-class VamsiKundeti:
-    role        = "Senior Research Associate @ CloudThat"
-    experience  = "3+ Years in Technical Training & AI Engineering"
-    focus       = ["Generative AI", "LLM Applications", "RAG Systems",
-                   "Vector Databases", "AI Automation"]
-    superpower  = "Bridging the gap between cutting-edge AI & real-world adoption"
-    trained     = "1000+ Learners & Professionals Globally 🌍"
-    
-    def mission(self):
-        return "Enable individuals & organizations to adopt AI with confidence 🚀"
-```
+👋 Hi, I'm **Vamsi Kundeti** — Senior Research Associate at **CloudThat** with **3+ years** of experience in AI Engineering and Technical Training.
+
+| | |
+|---|---|
+| 💼 **Role** | Senior Research Associate @ CloudThat |
+| 🧠 **Expertise** | Generative AI · LLM Applications · RAG Systems · Vector Databases · AI Automation |
+| ⚡ **Superpower** | Bridging the gap between cutting-edge AI & real-world adoption |
+| 🎓 **Trained** | 1,000+ Learners & Professionals Globally 🌍 |
+| 🚀 **Mission** | Enable individuals & organizations to adopt AI with confidence |
 
 ---
 
