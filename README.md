@@ -19,7 +19,7 @@
 
 ## 🧬 About Me
 
-👋 Hi, I'm **Vamsi Kundeti** — Senior Research Associate at **CloudThat** with **3+ years** of experience in AI Engineering and Technical Training.
+👋 Hi, I'm **Vamsi Kundeti** — Senior Research Associate at **CloudThat** with experience in AI Engineering and Technical Training.
 
 | | |
 |---|---|
